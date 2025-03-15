@@ -13,6 +13,8 @@
     <img align="right" width="50%" src="https://github-stats.verticordia.com/api?username=lucca-pellegrini&show_icons=true&abbabba=1&theme=transparent&include_all_commits=true">
     <br>
     <img align="right" width="50%" src="https://github-stats.verticordia.com/api/top-langs/?username=lucca-pellegrini&layout=donut">
+    <br>
+    <img align="right" width="49%" src="https://gist.github.com/lucca-pellegrini/10415d8cee85552cf4dfe11bbd6f2494/raw/topicos.svg">
 </div>
 
 <picture>
