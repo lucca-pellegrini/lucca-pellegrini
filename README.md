@@ -10,9 +10,9 @@
 ### <img src="https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width="35px"> Minhas ferramentas e estatísticas
 
 <div style="text-align: right;">
-    <img align="right" width="50%" src="https://github-stats.verticordia.com/api?username=lucca-pellegrini&show_icons=true&abbabba=1&theme=transparent&include_all_commits=true">
+    <img align="right" width="50%" src="https://github-stats.verticordia.com/api?username=lucca-pellegrini&locale=pt-br&show_icons=true&abbabba=1&theme=transparent&include_all_commits=true">
     <br>
-    <img align="right" width="50%" src="https://github-stats.verticordia.com/api/top-langs/?username=lucca-pellegrini&layout=donut">
+    <img align="right" width="50%" src="https://github-stats.verticordia.com/api/top-langs/?username=lucca-pellegrini&locale=pt-br&layout=donut">
 </div>
 
 <picture>
