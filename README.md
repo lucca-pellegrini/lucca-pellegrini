@@ -12,7 +12,7 @@
 <div style="text-align: right;">
     <img align="right" width="50%" src="https://github-stats.verticordia.com/api?username=lucca-pellegrini&locale=pt-br&show_icons=true&abbabba=1&theme=transparent&include_all_commits=true">
     <br>
-    <img align="right" width="50%" src="https://github-stats.verticordia.com/api/top-langs/?username=lucca-pellegrini&locale=pt-br&layout=donut">
+    <img align="right" width="50%" src="https://github-stats.verticordia.com/api/top-langs/?username=lucca-pellegrini&locale=pt-br&layout=donut&theme=transparent&include_all_commits=true">
 </div>
 
 <picture>
