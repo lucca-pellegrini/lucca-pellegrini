@@ -37,4 +37,16 @@ jobs:
           plugin_topics_limit: 0
           plugin_topics_mode: icons
           plugin_notable: yes
-          plugin_discussions: yes
+          plugin_discussions: yes      
+      
+      - name: Topicos
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@latest
+        with:
+          filename: topicos.svg
+          token: ""
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
+          plugin_topics_sort: activity
