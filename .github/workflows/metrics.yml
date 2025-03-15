@@ -44,8 +44,10 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: topicos.svg
-          token: ""
+          token: ${{ secrets.METRICS_TOKEN }}
           base: ""
+          output_action: gist
+          committer_gist: ${{ secrets.GIST }}
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
