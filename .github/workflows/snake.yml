@@ -43,3 +43,4 @@ jobs:
           build_dir: dist
         env:
           GH_PAT: ${{ secrets.SNAKE_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}
