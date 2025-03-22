@@ -12,6 +12,7 @@ on:
   push:
     branches:
     - master
+    - main
     
   
 
@@ -41,4 +42,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.SNAKE_TOKEN }}
+          GH_PAT: ${{ secrets.SNAKE_TOKEN }}
