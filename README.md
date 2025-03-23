@@ -1,3 +1,9 @@
+<picture style="text-align: center;">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/lucca-pellegrini/lucca-pellegrini/raw/refs/heads/snake-output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/lucca-pellegrini/lucca-pellegrini/raw/refs/heads/snake-output/github-snake.svg" />
+    <img align="center" width="100%" alt="github-snake" src="https://github.com/lucca-pellegrini/lucca-pellegrini/raw/refs/heads/snake-output/github-snake.svg" />
+</picture>
+
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> Olá!
 
 **Meu nome é Lucca Pellegrini**. Sou um estudante de Engenharia de Computação pela Pontifícia Universidade Católica de Minas Gerais (PUC-MG). Interessado principalmente em Sistemas Embarcados, Sistemas Operacionais, e Administração de Sistemas.
